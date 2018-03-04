@@ -1,7 +1,7 @@
 num =11
 flag = 0
 
-for a in range(2,num-1):
+for a in range(2,num):
 		if (num%a) == 0:
 			flag=1
 			break
